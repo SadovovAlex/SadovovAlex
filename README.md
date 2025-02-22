@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sadovov Alexaer<br>
+Sadovov Alexander<br>
 
 
 # 💻 Tech Stack:
